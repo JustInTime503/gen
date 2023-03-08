@@ -17,7 +17,7 @@ public class main {
     private static final String pw = "styler503";
     private static final int secWartenZwischenVersuchen = 10;
     private static final String xPathAccept = "/html/body/div[2]/div/div/div/div[3]/button[1]/span";
-    private static final String xPathSignIn = "//*[@id=\"root\"]/div/div[1]/div[2]/div[5]/a";
+    private static final String xPathSignIn = "//*[@id=\"root\"]/div/div[1]/div[2]/div[6]/a";
     private static final String xPathMailAndPw = "//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div[4]/button";
     private static final String xPathMailField = "//*[@id=\"email2\"]";
     private static final String xPathPwField = "//*[@id=\"password\"]";
